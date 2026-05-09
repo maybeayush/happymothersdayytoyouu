@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "Your name is perfect for my child's mothers name!",
+      subtitle: "You're perfect to be mother of child's !",
     },
     {
       type: "countdown",
