@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "RIYA",
+  photo: "./img/IMG_20260510_020323_781.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "Your name is perfect for my child's mothers name!",
     },
     {
       type: "countdown",
@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "Happy Mother's Day!! ",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy Mother's Day to you!!!",
       buttonText: "Send",
     },
     {
@@ -87,7 +87,7 @@ const CONFIG = {
     {
       type: "quote",
       text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      author: "Aruu",
     },
     {
       type: "stars",
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Happy MOTHER'S DAY!",
+      wishText: "May the next time i wish you i could hug you and kiss you on forehead! ;)",
     },
     {
       type: "fireworks",
